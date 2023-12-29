@@ -12,8 +12,7 @@ TWITTER: KoonPony
 
 If you have any projects you want to collab on, I'd be happy to
 hear you out!
-My EMAIL: <koonthepony[at]gmail.com>
-My DISCORD: koonthepony
+My DISCORD: frost.bug
 
 ⠀⠀⢰⣤⡀⠀⠀⠀⠀⠀⣀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⢸⣿⣿⡷⢄⣤⣶⣿⣿⠀⠀⠀⠀⠀⠀⠀
@@ -28,4 +27,3 @@ My DISCORD: koonthepony
 ⠰⢿⣿⣿⣿⣧⣤⣬⣿⠹⢿⣳⡿⠿⠿⠍⠐⡚
 ⠀⠀⠀⠀⠘⠿⠿⠿⠋⠤⠐⠒⠀⠀⠐⠂⠉⠀
 ```
-<a rel="me" href="https://pone.social/@koon"></a>
