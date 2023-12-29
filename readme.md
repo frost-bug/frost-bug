@@ -12,7 +12,7 @@ TWITTER: KoonPony
 
 If you have any projects you want to collab on, I'd be happy to
 hear you out!
-My DISCORD: frost.bug
+My DISCORD: frost.pony
 
 ⠀⠀⢰⣤⡀⠀⠀⠀⠀⠀⣀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⢸⣿⣿⡷⢄⣤⣶⣿⣿⠀⠀⠀⠀⠀⠀⠀
