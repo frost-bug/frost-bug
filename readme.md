@@ -1,5 +1,5 @@
 ```
-Hiiii! I'm Koon.. just a Pony!
+Hiiii! I'm Frost.. just a Pony!
 
 I play Pony Town from time to time (recently a bit too much). I'm mainly
 fascinated with its design and inner goings.
