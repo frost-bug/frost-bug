@@ -1,8 +1,7 @@
 <div NOT-align="center" >
-  <a href="https://github.com/frostpony"><img src="https://github.com/frostpony/frostpony/assets/154750235/33217f10-15ae-4350-b60f-32190bfff452" width="25%"></a>
+  <a href="https://github.com/frostpony"><img src="https://github.com/frostpony/frostpony/assets/154750235/0e80a24d-8b30-462b-9889-f5912748df82" width="25%"></a>  
   <a href="https://github.com/frostpony"><img src="https://github.com/frostpony/frostpony/assets/154750235/a85e0c82-e286-4b77-91af-433ab786c33e" width="25%"></a>
 </div>
-
 
 ```
 WHAT IS GITHUBBB???
