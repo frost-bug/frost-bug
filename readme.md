@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://github.com/frostpony"><img src="https://github.com/frostpony/frostpony/assets/154750235/16844814-f266-45ca-b8f0-0284312f3a3b" width="25%"></a>  
+  <a href="https://frostpony.github.io/gallery/"><img src="https://github.com/frostpony/frostpony/assets/154750235/16844814-f266-45ca-b8f0-0284312f3a3b" width="25%"></a>  
   <a href="https://pone.social/@koon"><img src="https://github.com/frostpony/frostpony/assets/154750235/dfcc2348-e3f6-4c9a-be85-8e1471d9cd85" width="25%"></a>
   <a href="https://discord.gg/fzZ4ABJ9Sq"><img src="https://github.com/frostpony/frostpony/assets/154750235/a85e0c82-e286-4b77-91af-433ab786c33e" width="25%"></a>
 </div>
