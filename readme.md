@@ -25,7 +25,7 @@ fascinated with its design and inner goings.
 
 If you spot me on PT ask me to draw your pony! (If I have time (which
 barely happens) and I like how your pony looks I might do it!)
-- TWITTER: KoonPony
+- MASTODON: @koon@pone.social
 
 
 If you have any projects you want to collab on, I'd be happy to
